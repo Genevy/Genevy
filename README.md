@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/Genevy">
-  <img src="https://raw.githubusercontent.com/Genevy/storage/main/images/profile/banner_dev_large.gif" alt="Developer" width="100%">
+  <img src="https://raw.githubusercontent.com/genevy/images/main/profile/banner_dev_large.gif" alt="Developer" width="100%">
 </a>
 
 <!--
