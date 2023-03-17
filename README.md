@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://github.com/Genevy">
+  <img src="https://raw.githubusercontent.com/Genevy/storage/main/images/profile/banner_dev_large.gif" alt="Developer" width="100%">
+</a>
+
 <!--
 **Genevy/Genevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
