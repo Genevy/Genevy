@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/genevy/images/dev/profile/banner_dev_large.gif" alt="Developer" width="100%">
 </a>
 
-### Hi there 👋
+### Hi 👋, I'm glad to see you here! This is my :octocat: GitHub Profile 
 
 <!--
 **Genevy/Genevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
