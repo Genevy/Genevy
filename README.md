@@ -1,6 +1,8 @@
-<a href="https://github.com/Genevy">
-  <img src="https://raw.githubusercontent.com/genevy/images/dev/profile/banner_dev_large.gif" alt="Developer" width="100%">
-</a>
+<p align="center">
+  <a href="https://github.com/Genevy">
+    <img src="https://raw.githubusercontent.com/genevy/images/dev/profile/banner_dev_large.gif" alt="Developer" width="100%">
+  </a>
+</p>
 
 ### Hi 👋, I'm glad to see you here! This is my :octocat: GitHub Profile 
 
