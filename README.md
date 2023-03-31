@@ -8,6 +8,22 @@
   Hi 👋, I'm glad to see you here! This is my :octocat: GitHub Profile
 </h3>
 <br>
+<br>
+
+### 📊 GitHub статистика:
+
+<br>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Genevy&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Genevy&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
+
 <!--
 **Genevy/Genevy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
