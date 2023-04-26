@@ -7,7 +7,7 @@
 <br>
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3366BB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+glad+to+see+you+here!;Passionate+development+web+sites)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3366BB&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+glad+to+see+you+here!;Passionate+development+web+sites)](https://github.com/Genevy?tab=repositories)
   
 </div>
 <br>
