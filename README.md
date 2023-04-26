@@ -4,12 +4,14 @@
   </a>
 </p>
 <br>
-<h3 align="center">
-  Hi 👋, I'm glad to see you here! This is my :octocat: GitHub Profile
-</h3>
+<br>
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+glad+to+see+you+here!;Passionate+development+web+sites)](https://git.io/typing-svg)
+  
+</div>
 <br>
 <br>
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genevy&theme=transparent)
