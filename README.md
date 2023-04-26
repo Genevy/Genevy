@@ -12,6 +12,7 @@
 
 ### 📊 GitHub статистика:
 
+<div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genevy&theme=transparent)
 
@@ -22,6 +23,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genevy&theme=transparent)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genevy&theme=transparent)
+  
+</div>
 
 <!--
 <br>
