@@ -10,11 +10,9 @@
 <br>
 <br>
 
-### 📊 GitHub статистика:
-
 <div align="center">
 
-### 📊 GitHub статистика:
+#### 📊 GitHub Statistics:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genevy&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genevy&theme=transparent) 
