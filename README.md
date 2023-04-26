@@ -5,6 +5,10 @@
 </p>
 <br>
 <br>
+
+##
+
+<br>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B%2C+I'm+glad+to+see+you+here!;This+is+my+GitHub+Profile+%E2%9C%8D%EF%B8%8F;Passionate+development+web+sites+%E2%9D%A4%EF%B8%8F)](https://github.com/Genevy?tab=repositories)
@@ -24,6 +28,10 @@
   
 
 </div>
+<br>
+
+##
+
 <br>
 <br>
 <div align="center">
