@@ -13,7 +13,6 @@
 <br>
 <br>
 <div align="center">
-  <a href="https://github.com/Genevy?tab=repositories">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Genevy&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Genevy&theme=transparent) 
@@ -21,5 +20,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Genevy&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Genevy&theme=transparent)
   
-  </a>
 </div>
